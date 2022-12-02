@@ -1,4 +1,5 @@
 import numpy as np
+import math
 
 def random_predict(number:int=1) -> int:
     """Рандомно угадываем число
@@ -11,11 +12,18 @@ def random_predict(number:int=1) -> int:
     """
 
     count = 0
+    predict_number = math.ceil(100 / 2**(count+1))
+    print(f'Загаданное число: {number}')
 
     while True:
         count += 1
-        predict_number = np.random.randint(1, 101) # предполагаемое число
-        if number == predict_number:
+        print(f'попытка: {count}', f'Предсказанное число: {predict_number}')
+        #predict_number = np.random.randint(1, 101) # предполагаемое число
+        if number > predict_number:
+            predict_number += math.ceil(100 / 2**(count+1))
+        elif number < predict_number:
+            predict_number -= math.ceil(100 / 2**(count+1))
+        else:
             break # выход из цикла, если угадали
     return(count)
 
