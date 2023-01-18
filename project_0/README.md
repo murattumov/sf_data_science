@@ -5,7 +5,9 @@
 
 [2. Какой кейс решаем?](https://github.com/murattumov/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/murattumov/sf_data_science/tree/main/project_0/README.md#abcd)
+[3. <code><a href="#abcd"># Краткая информация о данных</a></code>.
+Краткая информация о данных](https://github.com/murattumov/sf_data_science/tree/main/project_0/README.md#abcd)
+
 
 [4. Этапы работы над проектом](https://github.com/murattumov/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
 
