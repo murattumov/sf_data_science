@@ -5,7 +5,7 @@
 
 [2. Какой кейс решаем?](https://github.com/murattumov/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/murattumov/sf_data_science/tree/main/project_0/README.md#Краткая информация о данных)
+[3. Краткая информация о данных](https://github.com/murattumov/sf_data_science/tree/main/project_0/README.md#abcd)
 
 [4. Этапы работы над проектом](https://github.com/murattumov/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
 
@@ -28,7 +28,7 @@
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
 
-
+<a name="abcd"></a>
 ### Краткая информация о данных
 
 [Ссылка на Google Colab](https://colab.research.google.com/drive/1hhhfIWVJVKpNIDwAYEfwRm2_VtkrIJ-w?usp=sharing)
