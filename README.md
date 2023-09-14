@@ -9,4 +9,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 3. Прогнозирование рейтинга отеля на Booking](https://github.com/murattumov/project3.git) 
 * [Проект 4. Прогнозирование открытия депозита клиентом банка](https://github.com/murattumov/Project4.git)
 * [Проект 5. Предсказывание общей продолжительности поездки на такси в Нью-Йорке](https://github.com/murattumov/project5.git)
-* [Проект 6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/murattumov/project6.git) 
+* [Проект 6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/murattumov/project6.git)
+* [Финальный проект. Прогнозирование цен акций](https://github.com/murattumov/final_project.git) 
